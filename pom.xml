@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.lxl</groupId>
-    <artifactId>cache</artifactId>
+    <artifactId>CacheAnnotationDemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>cache</name>
     <description>Demo project for Spring Boot</description>
