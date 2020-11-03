@@ -6,8 +6,8 @@ import lombok.NoArgsConstructor;
 /**
  * redis key
  *
- * @author jiachunhui
- * @version Id: CacheKeyConstant.java, v 0.1 2020/9/23 16:47 jiachunhui Exp $$
+ * @author liuxulei
+ * @version Id: CacheKeyConstant.java, v 0.1 2020/9/23 16:47 liuxulei Exp $$
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class CacheKeyConstant {
